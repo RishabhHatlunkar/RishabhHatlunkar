@@ -2,9 +2,9 @@
 
 # 👋 Hi there! I'm Rishabh Hatlunkar
 
-### 📱 Flutter Developer | AI-Powered Mobile Apps | Building Smart, Scalable Systems
+### 📊 Aspiring Data Analyst | Transforming Raw Data into Actionable Insights & Decisions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI+Agent+Builder;IoT+%26+Data-Driven+Systems;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;Databricks+%26+Excel+Practitioner;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>
 
@@ -16,108 +16,66 @@ const Rishabh = {
     location: "Mumbai, India 🇮🇳",
     education: "B.Tech in Computer Engineering — Vidyalankar Institute of Technology",
     background: "Diploma in Computer Engineering, Vidyavardhini's Bhausaheb Vartak Polytechnic",
-    currentFocus: ["Flutter Development", "AI Agent Systems", "IoT & Real-Time Data Pipelines"],
-    experience: "Flutter Developer Intern @ Circuit Walaa",
-    lookingFor: "Opportunities to build impactful mobile & AI-driven products",
-    funFact: "I've won a hackathon building AI/ML solutions in under 24 hours ⚡"
+    currentFocus: ["Data Analysis", "SQL & Advanced Excel", "Python Data Stack", "Databricks"],
+    experience: "Flutter Developer Intern @ Circuit Walaa (Transitioning to Data Analytics)",
+    lookingFor: "Full-time / Internship opportunities as a Data Analyst",
+    funFact: "I love turning messy real-world datasets into clean, visual stories! 📈"
 };
+
 ```
 
-- 🌱 **Currently Building:** Multi-agent AI systems & real-time decision support tools
-- 🔭 **Working On:** GroundTruth — an IoT + LSTM-powered groundwater forecasting DSS
-- 🤝 **Open to:** Flutter, AI/ML, and full-stack collaborations
-- 💬 **Ask me about:** Flutter, State Management, AI Agents, IoT Systems
-- 🏆 **Recent Win:** TECHNOVA Hackathon (AI/ML Domain) — Xavier's Institute of Engineering
-- 📫 **Reach me:** [rishabhhatlunkar305@gmail.com](mailto:rishabhhatlunkar305@gmail.com)
+* 🌱 **Currently Learning:** Advanced SQL, Databricks workflows, and Data Storytelling & Visualization
+* 🔭 **Working On:** US BTS Flight Delay Analysis & Prediction pipeline
+* 🤝 **Open to:** Data Analyst, Business Analyst, and Analytics Engineering roles/collaborations
+* 💬 **Ask me about:** Python data libraries, SQL queries, Excel dashboards, and exploratory data analysis
+* 🏆 **Recent Win:** TECHNOVA Hackathon (AI/ML Domain) — Xavier's Institute of Engineering
+* 📫 **Reach me:** [rishabhhatlunkar305@gmail.com](https://www.google.com/search?q=mailto%3Arishabhhatlunkar305%40gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### 📊 Data Analytics & BI
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,java,cpp,c" />
-</p>
+### 💻 Programming Languages
 
-### 📱 Mobile & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,react" /><br/>
-  <img src="https://skillicons.dev/icons?i=typescript,materialui" />
-</p>
+### 🗄️ Databases & Big Data
 
-  </td>
-  <td valign="top" width="33%">
+### 🐍 Python Data Stack
 
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,nodejs,python" />
-</p>
+### 🤖 ML & Forecasting
 
-### 🤖 AI/ML & Automation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,py" />
-</p>
-<p align="left">
-  🧠 Google Gemini AI &nbsp;|&nbsp; 🔁 LSTM Forecasting &nbsp;|&nbsp; 🤖 Multi-Agent Systems
-</p>
-
-  </td>
-  <td valign="top" width="33%">
-
-### 🧩 State Management
-<p align="left">
-  Riverpod &nbsp;|&nbsp; Provider &nbsp;|&nbsp; Hive
-</p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### 🌐 APIs & Integrations
-<p align="left">
-  REST APIs &nbsp;|&nbsp; DWLR IoT Data &nbsp;|&nbsp; Jinja2
-</p>
-
-  </td>
-  </tr>
-</table>
+### 🛠️ Version Control & Tools
 
 ---
 
 ## 🌟 Featured Projects
 
-### 📸 [PicScribe](https://github.com/RishabhHatlunkar) — Image to Text & Table Extraction
-An intelligent Flutter app that extracts text and tables from images using **Google Gemini AI**, with dynamic prompt handling powered by Jinja2.
-`Flutter` `SQLite` `Gemini AI`
+### ✈️ [US BTS Flight Delay Analysis & Prediction](https://github.com/RishabhHatlunkar/US_BTS_flight_delay_analysis_and_prediction) — Aviation Data Insight Pipeline
+
+An end-to-end data analysis project examining U.S. Bureau of Transportation Statistics (BTS) flight data to uncover patterns, bottlenecks, and key drivers behind flight delays.
+`Python` `Pandas` `Seaborn` `Exploratory Data Analysis`
 
 ### 💧 [GroundTruth](https://github.com/RishabhHatlunkar) — Real-Time Aquifer Evaluation & Smart Governance DSS
-A real-time decision support system integrating **DWLR IoT data** with LSTM-based groundwater forecasting and AI-driven demand-supply analysis across 20+ zones.
-`Python` `Flutter` `React` `TypeScript` `Firebase`
 
-### 🤖 [Elliot](https://github.com/RishabhHatlunkar) — AI Development Suite
-A multi AI-agent system capable of research, development, and debugging based on natural-language user commands.
-`Python` `React` `TypeScript` `Firebase`
+A real-time data monitoring system analyzing DWLR IoT sensor data combined with LSTM-based time-series forecasting to evaluate groundwater trends across 20+ zones.
+`Python` `Pandas` `LSTM Forecasting` `IoT Data`
+
+### 📸 [PicScribe](https://github.com/RishabhHatlunkar) — Image to Structured Data Extraction
+
+An intelligent tool that extracts unstructured text and tabular information from images using Google Gemini AI, converting visual data into structured records.
+`Python` `Gemini AI` `Data Extraction`
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Winner** — TECHNOVA Hackathon, Xavier's Institute of Engineering (AI/ML Domain)
-- 🎖️ **7th Rank** — MSBTE State-Level Project Competition
-- 🏅 **Top 10 Finalist** — CodeVerse Hackathon, Bhausaheb Vartak Polytechnic
-- 🏅 **Top 5 Team** — CSI SPIT Hackathon (AI/ML Domain)
+* 🥇 **Winner** — TECHNOVA Hackathon, Xavier's Institute of Engineering (AI/ML Domain)
+* 🎖️ **7th Rank** — MSBTE State-Level Project Competition
+* 🏅 **Top 10 Finalist** — CodeVerse Hackathon, Bhausaheb Vartak Polytechnic
+* 🏅 **Top 5 Team** — CSI SPIT Hackathon (AI/ML Domain)
 
-## 📜 Certifications
-
-- ✅ Flutter Bootcamp & Internship — IIT Madras & Techobytes
-- ✅ Flutter 48-Hour Bootcamp — IIT Bombay & Techobytes
-
----
+--- 
 
 ### 📊 GitHub Stats
 
